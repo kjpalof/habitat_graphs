@@ -1,0 +1,331 @@
+creek,year,metal,value
+Lower Slate Creek,2011,Ag,0.134
+Lower Slate Creek,2012,Ag,0.145
+Lower Slate Creek,2013,Ag,0.168
+Lower Slate Creek,2014,Ag,0.08
+Lower Slate Creek,2015,Ag,0.07
+Lower Slate Creek,2016,Ag,0.076
+Lower Slate Creek,2011,Al,13600
+Lower Slate Creek,2012,Al,13600
+Lower Slate Creek,2013,Al,12300
+Lower Slate Creek,2014,Al,12000
+Lower Slate Creek,2015,Al,12000
+Lower Slate Creek,2016,Al,13100
+Lower Slate Creek,2011,As,16.2
+Lower Slate Creek,2012,As,9.31
+Lower Slate Creek,2013,As,23.7
+Lower Slate Creek,2014,As,20.1
+Lower Slate Creek,2015,As,14.9
+Lower Slate Creek,2016,As,17.5
+Lower Slate Creek,2011,Cd,1.46
+Lower Slate Creek,2012,Cd,1.22
+Lower Slate Creek,2013,Cd,1.29
+Lower Slate Creek,2014,Cd,1.21
+Lower Slate Creek,2015,Cd,0.53
+Lower Slate Creek,2016,Cd,0.673
+Lower Slate Creek,2011,Cr,29.4
+Lower Slate Creek,2012,Cr,32
+Lower Slate Creek,2013,Cr,94.5
+Lower Slate Creek,2014,Cr,20
+Lower Slate Creek,2015,Cr,18.9
+Lower Slate Creek,2016,Cr,21.1
+Lower Slate Creek,2011,Cu,56.7
+Lower Slate Creek,2012,Cu,50.7
+Lower Slate Creek,2013,Cu,56.7
+Lower Slate Creek,2014,Cu,51.1
+Lower Slate Creek,2015,Cu,39.1
+Lower Slate Creek,2016,Cu,37.5
+Lower Slate Creek,2011,Hg,0.0502
+Lower Slate Creek,2012,Hg,0.0994
+Lower Slate Creek,2013,Hg,0.0402
+Lower Slate Creek,2014,Hg,0.06
+Lower Slate Creek,2015,Hg,0.04
+Lower Slate Creek,2016,Hg,0.057
+Lower Slate Creek,2011,Ni,47.4
+Lower Slate Creek,2012,Ni,43.2
+Lower Slate Creek,2013,Ni,73.4
+Lower Slate Creek,2014,Ni,40.8
+Lower Slate Creek,2015,Ni,30
+Lower Slate Creek,2016,Ni,33.8
+Lower Slate Creek,2011,Pb,7.79
+Lower Slate Creek,2012,Pb,8.45
+Lower Slate Creek,2013,Pb,9.14
+Lower Slate Creek,2014,Pb,8.78
+Lower Slate Creek,2015,Pb,6.86
+Lower Slate Creek,2016,Pb,7
+Lower Slate Creek,2011,Se,0.72
+Lower Slate Creek,2012,Se,
+Lower Slate Creek,2013,Se,1.94
+Lower Slate Creek,2014,Se,1.3
+Lower Slate Creek,2015,Se,0.7
+Lower Slate Creek,2016,Se,1.4
+Lower Slate Creek,2011,Zn,220
+Lower Slate Creek,2012,Zn,200
+Lower Slate Creek,2013,Zn,205
+Lower Slate Creek,2014,Zn,189
+Lower Slate Creek,2015,Zn,131
+Lower Slate Creek,2016,Zn,177
+East Fork Slate Creek,2011,Ag,0.233
+East Fork Slate Creek,2012,Ag,0.513
+East Fork Slate Creek,2013,Ag,0.334
+East Fork Slate Creek,2014,Ag,0.14
+East Fork Slate Creek,2015,Ag,0.12
+East Fork Slate Creek,2016,Ag,0.19
+East Fork Slate Creek,2011,Al,20100
+East Fork Slate Creek,2012,Al,15300
+East Fork Slate Creek,2013,Al,13900
+East Fork Slate Creek,2014,Al,13300
+East Fork Slate Creek,2015,Al,12300
+East Fork Slate Creek,2016,Al,16500
+East Fork Slate Creek,2011,As,30
+East Fork Slate Creek,2012,As,24
+East Fork Slate Creek,2013,As,42.2
+East Fork Slate Creek,2014,As,39.1
+East Fork Slate Creek,2015,As,22.3
+East Fork Slate Creek,2016,As,51.5
+East Fork Slate Creek,2011,Cd,20.9
+East Fork Slate Creek,2012,Cd,23.2
+East Fork Slate Creek,2013,Cd,13.9
+East Fork Slate Creek,2014,Cd,12.1
+East Fork Slate Creek,2015,Cd,5.87
+East Fork Slate Creek,2016,Cd,8.2
+East Fork Slate Creek,2011,Cr,29.5
+East Fork Slate Creek,2012,Cr,38.9
+East Fork Slate Creek,2013,Cr,32.7
+East Fork Slate Creek,2014,Cr,14.6
+East Fork Slate Creek,2015,Cr,15.1
+East Fork Slate Creek,2016,Cr,16.5
+East Fork Slate Creek,2011,Cu,88.4
+East Fork Slate Creek,2012,Cu,159
+East Fork Slate Creek,2013,Cu,73.4
+East Fork Slate Creek,2014,Cu,55.7
+East Fork Slate Creek,2015,Cu,46.7
+East Fork Slate Creek,2016,Cu,59.5
+East Fork Slate Creek,2011,Hg,0.069
+East Fork Slate Creek,2012,Hg,0.327
+East Fork Slate Creek,2013,Hg,0.0774
+East Fork Slate Creek,2014,Hg,0.04
+East Fork Slate Creek,2015,Hg,0.05
+East Fork Slate Creek,2016,Hg,0.109
+East Fork Slate Creek,2011,Ni,143
+East Fork Slate Creek,2012,Ni,153
+East Fork Slate Creek,2013,Ni,79.8
+East Fork Slate Creek,2014,Ni,85.3
+East Fork Slate Creek,2015,Ni,46.8
+East Fork Slate Creek,2016,Ni,86.1
+East Fork Slate Creek,2011,Pb,8.5
+East Fork Slate Creek,2012,Pb,14.2
+East Fork Slate Creek,2013,Pb,12.5
+East Fork Slate Creek,2014,Pb,6.94
+East Fork Slate Creek,2015,Pb,4.48
+East Fork Slate Creek,2016,Pb,5.54
+East Fork Slate Creek,2011,Se,1.41
+East Fork Slate Creek,2012,Se,0.934
+East Fork Slate Creek,2013,Se,4.79
+East Fork Slate Creek,2014,Se,2.4
+East Fork Slate Creek,2015,Se,1.7
+East Fork Slate Creek,2016,Se,3.1
+East Fork Slate Creek,2011,Zn,1360
+East Fork Slate Creek,2012,Zn,1490
+East Fork Slate Creek,2013,Zn,844
+East Fork Slate Creek,2014,Zn,812
+East Fork Slate Creek,2015,Zn,333
+East Fork Slate Creek,2016,Zn,634
+Upper Slate Creek,2011,Ag,0.12
+Upper Slate Creek,2012,Ag,0.132
+Upper Slate Creek,2013,Ag,0.131
+Upper Slate Creek,2014,Ag,0.06
+Upper Slate Creek,2015,Ag,0.08
+Upper Slate Creek,2016,Ag,0.092
+Upper Slate Creek,2011,Al,22500
+Upper Slate Creek,2012,Al,20300
+Upper Slate Creek,2013,Al,14600
+Upper Slate Creek,2014,Al,14900
+Upper Slate Creek,2015,Al,14500
+Upper Slate Creek,2016,Al,14000
+Upper Slate Creek,2011,As,17.9
+Upper Slate Creek,2012,As,14.4
+Upper Slate Creek,2013,As,13.5
+Upper Slate Creek,2014,As,19.2
+Upper Slate Creek,2015,As,14.2
+Upper Slate Creek,2016,As,18
+Upper Slate Creek,2011,Cd,0.722
+Upper Slate Creek,2012,Cd,0.776
+Upper Slate Creek,2013,Cd,0.75
+Upper Slate Creek,2014,Cd,0.69
+Upper Slate Creek,2015,Cd,0.76
+Upper Slate Creek,2016,Cd,0.507
+Upper Slate Creek,2011,Cr,127
+Upper Slate Creek,2012,Cr,125
+Upper Slate Creek,2013,Cr,101
+Upper Slate Creek,2014,Cr,84.2
+Upper Slate Creek,2015,Cr,92.2
+Upper Slate Creek,2016,Cr,71.7
+Upper Slate Creek,2011,Cu,53.4
+Upper Slate Creek,2012,Cu,55.4
+Upper Slate Creek,2013,Cu,44.6
+Upper Slate Creek,2014,Cu,45.8
+Upper Slate Creek,2015,Cu,47
+Upper Slate Creek,2016,Cu,37
+Upper Slate Creek,2011,Hg,
+Upper Slate Creek,2012,Hg,0.0625
+Upper Slate Creek,2013,Hg,
+Upper Slate Creek,2014,Hg,0.03
+Upper Slate Creek,2015,Hg,0.11
+Upper Slate Creek,2016,Hg,0.051
+Upper Slate Creek,2011,Ni,87.5
+Upper Slate Creek,2012,Ni,78.4
+Upper Slate Creek,2013,Ni,55
+Upper Slate Creek,2014,Ni,55.7
+Upper Slate Creek,2015,Ni,54
+Upper Slate Creek,2016,Ni,48.5
+Upper Slate Creek,2011,Pb,3.37
+Upper Slate Creek,2012,Pb,4.05
+Upper Slate Creek,2013,Pb,2.7
+Upper Slate Creek,2014,Pb,2.86
+Upper Slate Creek,2015,Pb,3.17
+Upper Slate Creek,2016,Pb,2.69
+Upper Slate Creek,2011,Se,0.809
+Upper Slate Creek,2012,Se,0.606
+Upper Slate Creek,2013,Se,3.21
+Upper Slate Creek,2014,Se,1.8
+Upper Slate Creek,2015,Se,2.3
+Upper Slate Creek,2016,Se,2.1
+Upper Slate Creek,2011,Zn,130
+Upper Slate Creek,2012,Zn,134
+Upper Slate Creek,2013,Zn,105
+Upper Slate Creek,2014,Zn,111
+Upper Slate Creek,2015,Zn,109
+Upper Slate Creek,2016,Zn,111
+Lower Johnson Creek,2011,Ag,0.164
+Lower Johnson Creek,2012,Ag,0.342
+Lower Johnson Creek,2013,Ag,0.269
+Lower Johnson Creek,2014,Ag,0.32
+Lower Johnson Creek,2015,Ag,0.16
+Lower Johnson Creek,2016,Ag,0.574
+Lower Johnson Creek,2011,Al,13100
+Lower Johnson Creek,2012,Al,13100
+Lower Johnson Creek,2013,Al,10300
+Lower Johnson Creek,2014,Al,10300
+Lower Johnson Creek,2015,Al,10900
+Lower Johnson Creek,2016,Al,9470
+Lower Johnson Creek,2011,As,16.2
+Lower Johnson Creek,2012,As,12.8
+Lower Johnson Creek,2013,As,11.9
+Lower Johnson Creek,2014,As,16.5
+Lower Johnson Creek,2015,As,12.5
+Lower Johnson Creek,2016,As,13
+Lower Johnson Creek,2011,Cd,0.238
+Lower Johnson Creek,2012,Cd,0.25
+Lower Johnson Creek,2013,Cd,0.492
+Lower Johnson Creek,2014,Cd,0.16
+Lower Johnson Creek,2015,Cd,0.15
+Lower Johnson Creek,2016,Cd,0.15
+Lower Johnson Creek,2011,Cr,31.5
+Lower Johnson Creek,2012,Cr,35.5
+Lower Johnson Creek,2013,Cr,24.4
+Lower Johnson Creek,2014,Cr,22.2
+Lower Johnson Creek,2015,Cr,18.1
+Lower Johnson Creek,2016,Cr,18.9
+Lower Johnson Creek,2011,Cu,73.1
+Lower Johnson Creek,2012,Cu,76.8
+Lower Johnson Creek,2013,Cu,56.1
+Lower Johnson Creek,2014,Cu,68.2
+Lower Johnson Creek,2015,Cu,71.1
+Lower Johnson Creek,2016,Cu,76.3
+Lower Johnson Creek,2011,Hg,
+Lower Johnson Creek,2012,Hg,0.119
+Lower Johnson Creek,2013,Hg,
+Lower Johnson Creek,2014,Hg,0.02
+Lower Johnson Creek,2015,Hg,
+Lower Johnson Creek,2016,Hg,0.02
+Lower Johnson Creek,2011,Ni,27.3
+Lower Johnson Creek,2012,Ni,23.4
+Lower Johnson Creek,2013,Ni,15.7
+Lower Johnson Creek,2014,Ni,16.9
+Lower Johnson Creek,2015,Ni,17.7
+Lower Johnson Creek,2016,Ni,15.1
+Lower Johnson Creek,2011,Pb,9.76
+Lower Johnson Creek,2012,Pb,9.45
+Lower Johnson Creek,2013,Pb,8
+Lower Johnson Creek,2014,Pb,10.9
+Lower Johnson Creek,2015,Pb,8.04
+Lower Johnson Creek,2016,Pb,8.41
+Lower Johnson Creek,2011,Se,
+Lower Johnson Creek,2012,Se,
+Lower Johnson Creek,2013,Se,
+Lower Johnson Creek,2014,Se,
+Lower Johnson Creek,2015,Se,
+Lower Johnson Creek,2016,Se,
+Lower Johnson Creek,2011,Zn,93.3
+Lower Johnson Creek,2012,Zn,97.3
+Lower Johnson Creek,2013,Zn,121
+Lower Johnson Creek,2014,Zn,83.4
+Lower Johnson Creek,2015,Zn,79.7
+Lower Johnson Creek,2016,Zn,65.7
+Lower Sherman Creek,2011,Ag,0.137
+Lower Sherman Creek,2012,Ag,0.289
+Lower Sherman Creek,2013,Ag,0.306
+Lower Sherman Creek,2014,Ag,0.14
+Lower Sherman Creek,2015,Ag,0.25
+Lower Sherman Creek,2016,Ag,0.097
+Lower Sherman Creek,2011,Al,18200
+Lower Sherman Creek,2012,Al,17900
+Lower Sherman Creek,2013,Al,15400
+Lower Sherman Creek,2014,Al,14900
+Lower Sherman Creek,2015,Al,17500
+Lower Sherman Creek,2016,Al,13800
+Lower Sherman Creek,2011,As,28.9
+Lower Sherman Creek,2012,As,24.3
+Lower Sherman Creek,2013,As,25.4
+Lower Sherman Creek,2014,As,27.9
+Lower Sherman Creek,2015,As,37
+Lower Sherman Creek,2016,As,19.9
+Lower Sherman Creek,2011,Cd,0.389
+Lower Sherman Creek,2012,Cd,0.578
+Lower Sherman Creek,2013,Cd,0.39
+Lower Sherman Creek,2014,Cd,0.36
+Lower Sherman Creek,2015,Cd,0.32
+Lower Sherman Creek,2016,Cd,0.388
+Lower Sherman Creek,2011,Cr,46.2
+Lower Sherman Creek,2012,Cr,51.4
+Lower Sherman Creek,2013,Cr,37.4
+Lower Sherman Creek,2014,Cr,33.6
+Lower Sherman Creek,2015,Cr,30.9
+Lower Sherman Creek,2016,Cr,27.5
+Lower Sherman Creek,2011,Cu,94
+Lower Sherman Creek,2012,Cu,79.1
+Lower Sherman Creek,2013,Cu,69.4
+Lower Sherman Creek,2014,Cu,68.4
+Lower Sherman Creek,2015,Cu,70.8
+Lower Sherman Creek,2016,Cu,72.5
+Lower Sherman Creek,2011,Hg,
+Lower Sherman Creek,2012,Hg,0.0681
+Lower Sherman Creek,2013,Hg,
+Lower Sherman Creek,2014,Hg,0.03
+Lower Sherman Creek,2015,Hg,0.02
+Lower Sherman Creek,2016,Hg,
+Lower Sherman Creek,2011,Ni,45.9
+Lower Sherman Creek,2012,Ni,40.2
+Lower Sherman Creek,2013,Ni,30.9
+Lower Sherman Creek,2014,Ni,31.1
+Lower Sherman Creek,2015,Ni,38
+Lower Sherman Creek,2016,Ni,32.9
+Lower Sherman Creek,2011,Pb,6.7
+Lower Sherman Creek,2012,Pb,8.43
+Lower Sherman Creek,2013,Pb,7.39
+Lower Sherman Creek,2014,Pb,6.97
+Lower Sherman Creek,2015,Pb,11
+Lower Sherman Creek,2016,Pb,6.6
+Lower Sherman Creek,2011,Se,
+Lower Sherman Creek,2012,Se,
+Lower Sherman Creek,2013,Se,1.77
+Lower Sherman Creek,2014,Se,1.2
+Lower Sherman Creek,2015,Se,2
+Lower Sherman Creek,2016,Se,1.1
+Lower Sherman Creek,2011,Zn,110
+Lower Sherman Creek,2012,Zn,128
+Lower Sherman Creek,2013,Zn,111
+Lower Sherman Creek,2014,Zn,119
+Lower Sherman Creek,2015,Zn,134
+Lower Sherman Creek,2016,Zn,123
